@@ -1,8 +1,5 @@
-# titulo
-Alex Santana
-## subtitulo
-O místico mago
-### subsubtitulo
-Com seus poderes!
+# Alex Santana
+## O místico mago
+### Com seus poderes!
 
 **Incríveis poderes!!**
